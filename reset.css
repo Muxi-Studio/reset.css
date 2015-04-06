@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+/*muxi-reset.css v0.1*/
+/*last-modefied-date:15-4-6*/
+
+
+body{margin:0;
+     padding:0;
+	background-color:#FFFFFF;
+	 font-family:"微软雅黑";
+	 }
+a,img{border:none; text-decoration:none;}
+div,a,p,ul,li{padding:0; margin:0; list-style:none;}
+*{list-style-type:none;}
